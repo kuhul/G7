@@ -11,7 +11,3 @@ CONTROLLS:
 WASD - Movement
 X - Equip weapon
 LeftClick - Interact/Attack
-
-LICENCING:
-Only for private usage
-Do not distribute project publicly
