@@ -1,0 +1,12 @@
+Small tasks:
+- Model Viewer?
+- Auto model/texture import?
+- GUI
+- Schatzkiste zu -> offen (Interaktionen verstehen)
+- Besseres Drehen / Laufen
+
+Big tasks:
+- Sound
+- Besseres Lighting (Normalmaps?)
+- Animationen (kaputtgehende Vase)
+- PNGs
